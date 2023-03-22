@@ -28,3 +28,10 @@
     - 'git checkout (la branche)'
 
 ---
+
+### Serveur distant
+
+ - pour définir un alias identifiant le serveur distant
+   - git remote add (nom) http://github.com/catParalysis/41e.git
+   - git 
+ 
